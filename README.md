@@ -22,4 +22,5 @@
 <a href="https://www.linkedin.com/in/henrique-s-cruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/rickhsc/rickhsc/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/rickhsc/Meu-Perfil-GitHub/blob/output/github-contribution-grid-snake.svg)
