@@ -23,6 +23,5 @@
 </div>
 
 
-<div>
+
 ![snake gif](https://github.com/rickhsc/Meu-Perfil-GitHub/blob/output/github-contribution-grid-snake.svg)
-</div>
